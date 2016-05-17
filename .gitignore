@@ -1,0 +1,11 @@
+# This is a .gitignore file
+# Anything after a '#' is a comment and won't be read
+# If you add something to a gitignore file and it isn't commented out
+# then git will auto-magically find it and ignore it
+# gitignore can ignore folders like this (which will ignore folders and all subdirectories of .idea)
+.idea/
+
+# gitignore can ignore file types too
+*.csv
+
+# Try adding a *.csv file now or .idea/ folder and notice that these changes won't be added to the git repo
