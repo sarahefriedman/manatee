@@ -11,4 +11,7 @@ If you have time, could you make edits to this file and then submit a pull reque
 * Where I make a list of items
 * Extremely high-tech
 
-
+### This is fun. I totally have time
+* I agree
+* This is totall high-tech
+* [You can totally add Links too!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
