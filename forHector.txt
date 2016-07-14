@@ -1,0 +1,17 @@
+# life update
+So after all the agonizing in that data science class I'm taking
+we come to a lesson that solves all of my problem.
+A package called "dplyr" that is the most convenient thing
+I have ever seen.
+Simple grammar, intuitive, and geared towards what people
+actually need to see from data.
+
+# rant time
+SO WHAT HAVE WE BEEN DOING ALL THIS WHILE
+
+# continuing rant
+WHY EVEN BOTHER TO LEARN OTHER STUFF IN R IF DPLYR EXISTS
+
+# end of rant
+That is all. And I wanted to send it in git to ensure I
+still remember how. :)
